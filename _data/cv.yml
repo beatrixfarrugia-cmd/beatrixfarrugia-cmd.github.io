@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Beatrix Farrugia
     - name: Date of Birth
-      value: 14th March 1879
+      value: 19/05/06
     - name: Languages
       value: English, German
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: BSc
+      institution: University of York, York, United Kingdom
+      year: 2024
       description:
         - Description 1.
         - Description 2.
